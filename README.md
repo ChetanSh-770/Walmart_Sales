@@ -138,7 +138,7 @@ walmart-powerbi-report/
 
 **Chetan** | Data Analyst | B.Tech CSE 2024
 - 🔗 [LinkedIn](https://linkedin.com/in/chetansh770)
-- 💼 Open to Data Analyst roles | Jaipur / Remote
+- 💼 Data Analyst
 - 📧 chetansh770@gmail.com
 
 ---

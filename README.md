@@ -137,9 +137,9 @@ walmart-powerbi-report/
 ## 📬 Connect With Me
 
 **Chetan** | Data Analyst | B.Tech CSE 2024
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🔗 [LinkedIn](https://linkedin.com/in/chetansh770)
 - 💼 Open to Data Analyst roles | Jaipur / Remote
-- 📧 your.email@gmail.com
+- 📧 chetansh770@gmail.com
 
 ---
 

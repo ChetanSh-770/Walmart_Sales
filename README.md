@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
 ![DAX](https://img.shields.io/badge/Language-DAX-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Dataset](https://img.shields.io/badge/Dataset-Walmart%20Sales-orange)
+![Dataset](https://img.shields.io/badge/Dataset-Walmart%20Sales-orange) 
 
 ---
 
